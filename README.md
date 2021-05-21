@@ -1,6 +1,6 @@
 # Analysis_of_Adverts_Click_using_R
 # Description
-A Kenyan entrepreneur has created an online cryptography course and would want to advertise it on her blog. She currently targets audiences originating from various countries. In the past, she ran ads to advertise a related course on the same blog and collected data in the process. She would now like to employ your services as a Data Science Consultant to help her identify which individuals are most likely to click on her ads.
+A Kenyan entrepreneur has created an online cryptography course and would want to advertise it on her blog. She currently targets audiences originating from various countries. In the past, she ran ads to advertise a related course on the same blog and collected data in the process. She would now like to employ the services of a Data Science Consultant to help her identify which individuals are most likely to click on her ads.
 
 The main approach in determining these individuals is to perform Exploratory Data Analysis in order to draw meaningful insights that would enable us to work towards attaining our reasearch objective.
 
